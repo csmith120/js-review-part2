@@ -21,4 +21,4 @@ const year = prompt('enter a year');
 
 checkLeapYear(year);
 
-//exercise 8
+//exercise 9
