@@ -20,3 +20,5 @@ function checkLeapYear(year) {
 const year = prompt('enter a year');
 
 checkLeapYear(year);
+
+//exercise 8
