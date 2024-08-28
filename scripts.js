@@ -75,3 +75,4 @@ var dummy = ;
 console.log(dummyString, dummyNumber, dummyBoolean, dummyNull, dummyUndefined, dummyObject, dummyArray)
 */
 
+//exercise 12
