@@ -29,7 +29,7 @@ while (i <= 100) {
         i++
     )
 }
-*/
+
 
 //exercise 10
 function answer(mathFun) {
@@ -56,6 +56,19 @@ if (B = '+'){
     var multiple = (A * C);
     console.log(multiple);
 }
+*/
 
+//exercise 11
+ 
+starArray = [40,49,40,37]
+starObject = 'chair'; 
 
+var dummyString = 'dummy';
+var dummyNumber = 52;
+var dummyBoolean = true;
+var dummyNull = null;
+var dummyUndefined = undefined;
+var dummyObject = starObject;
+var dummyArray = starArray
 
+console.log(dummyString, dummyNumber, dummyBoolean, dummyNull, dummyUndefined, dummyObject, dummyArray)
