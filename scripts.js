@@ -56,7 +56,7 @@ if (B = '+'){
     var multiple = (A * C);
     console.log(multiple);
 }
-*/
+
 
 //exercise 11
  
@@ -73,3 +73,5 @@ var dummyArray = starArray
 var dummy = ;
 
 console.log(dummyString, dummyNumber, dummyBoolean, dummyNull, dummyUndefined, dummyObject, dummyArray)
+*/
+
