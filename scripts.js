@@ -32,3 +32,30 @@ while (i <= 100) {
 */
 
 //exercise 10
+function answer(mathFun) {
+ console.log(mathFun)
+}
+
+let A = prompt("input number");
+let B = prompt('input "+, -, *, /"');
+let C = prompt("input another number");
+
+A = Number(A)
+C = Number(C)
+
+if (B = '+'){
+    var add = A + C;
+    console.log(add);
+} else if (B = '-'){
+    var minus = (A - C);
+    console.log(minus);
+} else if (B = '/') {
+    var divide = (A / C);
+    console.log(divide);
+} else if (B = '*') {
+    var multiple = (A * C);
+    console.log(multiple);
+}
+
+
+
