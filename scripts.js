@@ -70,5 +70,6 @@ var dummyNull = null;
 var dummyUndefined = undefined;
 var dummyObject = starObject;
 var dummyArray = starArray
+var dummy = ;
 
 console.log(dummyString, dummyNumber, dummyBoolean, dummyNull, dummyUndefined, dummyObject, dummyArray)
