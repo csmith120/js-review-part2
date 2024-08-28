@@ -1,4 +1,4 @@
-//exercise7
+/*//exercise7
 let person = prompt("please enter a number")
 
 function squared(a) {
@@ -22,3 +22,13 @@ const year = prompt('enter a year');
 checkLeapYear(year);
 
 //exercise 9
+
+let i = 1;
+while (i <= 100) {
+    console.log("number is " + i,
+        i++
+    )
+}
+*/
+
+//exercise 10
